@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Locate Assistant</string>
+    <string name="app_name_ar">سوبر كليكر</string>
+    <string name="accessibility_service_label">سوبر كليكر - Locate Assistant</string>
+    <string name="accessibility_service_description">يقوم سوبر كليكر بتحليل تفاصيل طلبات التوصيل (المسافات، الأصناف، والأجرة) لمساعدة السائق على القبول الآلي الفوري دون تشتت على الطريق. المعالجة محلية بالكامل.</string>
+    <string name="overlay_service_label">سوبر كليكر - الزر العائم</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Locate Assistant",
+  "description": "High-speed automated co-pilot for delivery drivers with instant order parsing, criteria filtering, burst hardware tap acceptance, and floating overlay widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
